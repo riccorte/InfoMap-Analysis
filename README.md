@@ -31,16 +31,16 @@ We analyze:
 
 Classical **Infomap** minimizes the Map Equation:
 
-\[
+$$
 L(M) = q_{\curvearrowright} H(Q) + \sum_{i=1}^{m} p_{\circlearrowright}^{i} H(P^{i})
-\]
+$$
 
 Where:
 
-- \( q_{\curvearrowright} \) = probability of exiting modules  
-- \( H(Q) \) = entropy of module transitions  
-- \( p_{\circlearrowright}^{i} \) = probability of staying within module \( i \)  
-- \( H(P^{i}) \) = entropy inside module \( i \)  
+- $ q_{\curvearrowright} $ = probability of exiting modules  
+- $ H(Q) $ = entropy of module transitions  
+- $ p_{\circlearrowright}^{i} $ = probability of staying within module $ i $  
+- $ H(P^{i}) $ = entropy inside module $ i $ 
 
 Key characteristics:
 
