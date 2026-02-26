@@ -37,10 +37,10 @@ $$
 
 Where:
 
-- $ q_{\curvearrowright} $ = probability of exiting modules  
-- $ H(Q) $ = entropy of module transitions  
-- $ p_{\circlearrowright}^{i} $ = probability of staying within module $ i $  
-- $ H(P^{i}) $ = entropy inside module $ i $ 
+- $q_{\curvearrowright}$ = probability of exiting modules  
+- $H(Q)$ = entropy of module transitions  
+- $p_{\circlearrowright}^{i}$ = probability of staying within module $i$  
+- $H(P^{i})$ = entropy inside module $i$ 
 
 Key characteristics:
 
